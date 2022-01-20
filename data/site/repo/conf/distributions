@@ -1,0 +1,8 @@
+Origin: 149.28.65.254
+Label: apt repository
+Codename: focal
+Architectures: amd64 source
+Components: main
+Description: Tuffix PPA for CSUF
+SignWith: yes
+Pull: focal

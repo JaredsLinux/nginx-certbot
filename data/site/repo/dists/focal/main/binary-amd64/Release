@@ -1,0 +1,5 @@
+Component: main
+Origin: 149.28.65.254
+Label: apt repository
+Architecture: amd64
+Description: Tuffix PPA for CSUF

@@ -1,0 +1,28 @@
+Origin: 149.28.65.254
+Label: apt repository
+Codename: focal
+Date: Wed, 27 Jan 2021 21:53:47 UTC
+Architectures: amd64
+Components: main
+Description: Tuffix PPA for CSUF
+MD5Sum:
+ ce6da1a01ab050b30769b0196d3faa35 788 main/binary-amd64/Packages
+ 6ef4ecd77bc90ad04237e11d8fc3508f 545 main/binary-amd64/Packages.gz
+ 8d4cbbe98666695ee09f516f265e6623 113 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ dbd9cb9d7567cbdebcbc57a439c19c5c 114 main/source/Release
+SHA1:
+ 0f88cd46fd28d0099b7a3b6fcc3ac846cdb50331 788 main/binary-amd64/Packages
+ f9bc7f2baa9b6b0be31c3ca08ee0ad4daf1b805b 545 main/binary-amd64/Packages.gz
+ 5ac8d0d4338cc1df9d8228aa6a173ee420c2016d 113 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 1b09451811cd6e4833bfb759264396c8fa141d9c 114 main/source/Release
+SHA256:
+ a2ee38d63d7ff6b9cb4416eba35979670a506597df85a041af71b0aea7e68dcc 788 main/binary-amd64/Packages
+ 4c2a6e9378c92b65490fae46a989061627133698992b6571e191ada6f288f299 545 main/binary-amd64/Packages.gz
+ a2ba6a47a461e0b15a3ea8e5a4ded9378470af864f6c6c6f613601802ea81f29 113 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ a04d00e6dc6fc7a2abce641c044e4064acac958a87cf34f295c3374bf8966c5b 114 main/source/Release
